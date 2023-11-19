@@ -1,6 +1,7 @@
 ---
 title: "Decoding the Diversity of Programming Languages"
 date: 2023-11-19
+permalink: /firstpost
 ---
 
 In the vast realm of technology, programming languages serve as the building blocks that enable developers to breathe life into software applications. Each language possesses its unique syntax, features, and use cases, catering to different aspects of the ever-evolving digital landscape. Let's take a brief journey through the diverse world of programming languages.
